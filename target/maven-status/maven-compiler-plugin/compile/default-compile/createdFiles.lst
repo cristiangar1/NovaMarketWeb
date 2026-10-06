@@ -1,0 +1,7 @@
+com\novamarket\model\Producto.class
+com\novamarket\novamarketweb\resources\JakartaEE10Resource.class
+com\novamarket\controller\ProductoServlet.class
+com\novamarket\dao\ProductoDAO.class
+com\novamarket\novamarketweb\JakartaRestConfiguration.class
+com\novamarket\config\Conexion.class
+com\novamarket\config\PruebaConexion.class
